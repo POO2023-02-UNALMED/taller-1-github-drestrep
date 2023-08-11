@@ -1,0 +1,1 @@
+En el paso 9 se pudo crear un commit y subir la carpeta porque esta ya contaba con elementos (archivos).
