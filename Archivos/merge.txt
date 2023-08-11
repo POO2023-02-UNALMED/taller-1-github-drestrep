@@ -1,3 +1,9 @@
+
 David Restrepo Aguilar
 19
 Espero aprender a realizar aplicaciones óptimas de la forma más funcional posible.
+
+En el paso 9 se pudo crear un commit y subir la carpeta porque esta ya contaba con elementos (archivos).
+
+Tenemos que tener cuidado a la hora de modificar dos archivos a la vez y más si son los mismos, dado a que a la hora de realizar un push, el programa no sabrá cual de las modificaciones realizadas deberá subir, por lo que termina superponiendo un archivo sobre otro y generando un error.
+
