@@ -1,1 +1,1 @@
-No hubo commit porque la carpeta estaba vacía
+No hubo commit porque la carpeta estaba vacía.
