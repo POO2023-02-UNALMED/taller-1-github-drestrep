@@ -1,1 +1,3 @@
-Ahora se pudo realizar un commit porque la carpeta ya tenía un archivo dentro
+David Restrepo Aguilar
+19
+Espero aprender a crear apliaciones de forma óptima y ordenada
